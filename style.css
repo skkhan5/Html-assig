@@ -4,3 +4,9 @@ body{
     font-weight: 800;
     
 }
+
+.main-page h1 a{
+  
+  text-decoration: none;
+}
+
